@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/XIPApp.jar"/>
+	<classpathentry kind="lib" path="lib/dcm4che-core-2.0.18.jar"/>
+	<classpathentry kind="lib" path="lib/dcm4che-iod-2.0.18.jar"/>
+	<classpathentry kind="lib" path="lib/DicomUtil.jar"/>
+	<classpathentry kind="lib" path="lib/dicomNativeModel.jar"/>
+	<classpathentry kind="lib" path="lib/pixelmed.jar"/>
+	<classpathentry kind="lib" path="lib/ad-api-0.9.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-core-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="lib/ad-core-0.9.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/axis-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/commons-discovery-20040218.194635.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/dicomNativeModel-0.1.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.8.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung-1.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="lib/mime-util.jar"/>
+	<classpathentry kind="lib" path="lib/pixelmed-0.1.jar"/>
+	<classpathentry kind="lib" path="lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="lib/xmlunit-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/db2jcc.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MVT"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/IA"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

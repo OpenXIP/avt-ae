@@ -1,0 +1,19 @@
+<XMLConfig>
+  <section name="Status" >
+    <setting key="showFields" >0</setting>
+    <setting key="showOutputs" >0</setting>
+    <setting key="showNotes" >0</setting>
+    <setting key="showTags" >0</setting>
+  </section>
+  <section name="Window" >
+    <setting key="x" >386</setting>
+    <setting key="y" >115</setting>
+    <setting key="width" >1024</setting>
+    <setting key="height" >768</setting>
+    <setting key="status" >normal</setting>
+  </section>
+  <section name="RenderArea" />
+  <section name="Recent Scene Graphs" >
+    <setting key="Scene Graph" >D:/Projects/AVT/30_Dev/AVT/src/AE/dist/AlgorithmExecution.xip</setting>
+  </section>
+</XMLConfig>
