@@ -31,4 +31,5 @@ You will find more details about AVT&trade; and XIP&trade; in the following link
 *  [Forum/Mailing List] (https://groups.google.com/forum/?fromgroups#!forum/openxip)
 *  [Issue tracker] (https://plans.imphub.org/browse/XIP)
 *  [Documentation] (https://docs.imphub.org/display/XIP)
-*  [Git code repository] (https://github.com/OpenXIP/xip-host)
+*  [Git code repository] (https://github.com/OpenXIP/avt-ae)
+*  [Windows installer](https://mirgforge.wustl.edu/gf/project/xip/frs/)
